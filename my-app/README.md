@@ -21,3 +21,7 @@ git pull
 <!-- to change my branch to the new IMPORTANT WITHOUT "()" -->
 
 git checkout -b (name)
+
+<!-- start json server-->
+
+json-server --watch empresa.json

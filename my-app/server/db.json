@@ -1,0 +1,46 @@
+{
+  "empresa": [
+    {
+      "id": 1,
+      "nombre": "akiurai",
+      "pais": "colombia",
+      "estado": "checked"
+    },
+    {
+      "id": 2,
+      "nombre": "colombina",
+      "pais": "colombia",
+      "estado": "checked"
+    },
+    {
+      "id": 5,
+      "nombre": "ninguna",
+      "pais": "asdasd",
+      "checked": ""
+    },
+    {
+      "id": 6,
+      "nombre": "ninguna",
+      "pais": "sadasd",
+      "checked": ""
+    },
+    {
+      "id": 7,
+      "nombre": "akirai",
+      "pais": "21321213",
+      "checked": ""
+    },
+    {
+      "id": 8,
+      "nombre": "total",
+      "pais": "qweqwe",
+      "checked": ""
+    },
+    {
+      "id": 9,
+      "nombre": "walkart",
+      "pais": "colombia",
+      "checked": ""
+    }
+  ]
+}
